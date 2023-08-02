@@ -7,3 +7,5 @@
 - Limpar tela: cls
 - Entrar na pasta: cd nome pasta
 - sair: ctrl c
+
+- Inicializar a pasta: git init
