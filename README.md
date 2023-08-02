@@ -8,5 +8,13 @@
 - Entrar na pasta: cd nome pasta
 - sair: ctrl c
 
-- Inicializar a pasta: git init
-- Verificar status atual status
+## Comandos Principais
+
+Fit config `git user.name` e `git user.email `
+Verificar email e usúario
+
+`git init`
+Inicializar um repositório (executado dentro da pasta)
+
+`Git status`
+Verificar status atual do repositório.
