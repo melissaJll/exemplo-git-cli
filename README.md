@@ -44,3 +44,10 @@ Fazer commit das alterações (salvar no histórico).
 `git remote add origin endereço-do-repositório.git`
 
 adicionar/conectar o repositório remoto ao local.
+
+`git pull origin main`
+Pegar e obter as mudanças do repositório online.
+
+`git clone endereço-repositório.git`
+
+copiando e baixando um repositório para a máquina remota.
