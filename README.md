@@ -9,3 +9,4 @@
 - sair: ctrl c
 
 - Inicializar a pasta: git init
+- Verificar status atual status
